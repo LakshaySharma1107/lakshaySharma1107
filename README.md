@@ -6,9 +6,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshay-sharma-085384251/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshay.sharma1107@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://lakshays.vercel.app)
 
 </div>
 
@@ -24,9 +24,7 @@ lakshay = {
     "stack"     : ["MERN", "WebSocket", "MQTT", "Saga/Event-Driven", "ROS2", "AWS"],
     "patent"    : "Published — Hindi Audio Content Moderation System",
     "papers"    : "2 research papers in publishing phase",
-    "presented" : ["Baba Kalyani", "Indian Navy", "Indian Army", "Australian Army",
-                   "Israeli Defence", "Mercedes-Benz Group"],
-    "fun_fact"  : "I taught robots to call elevators 🛗🤖"
+    "fun_fact"  : "I taught robots to call elevators :) "
 }
 ```
 
@@ -36,14 +34,14 @@ lakshay = {
 
 | Project | Stack | Highlight |
 |---|---|---|
-| 🤖 **Fleet Management System** | MERN · WebSocket · MQTT · Saga · ROS2 | Real-time multi-robot control; latency slashed via WS + MQTT migration |
-| 🛗 **KONE Elevator Integration** | ROS2 · Node.js | Robots autonomously call lifts, send floor commands, handle door events |
-| 🎵 **Hindi Audio Moderation** | CNN · FCNN · MFCC · Flask · React Native | **Patent published** — deep learning content safety for Hindi audio |
-| 💉 **RakhtSeva** | React · Firebase · Leaflet.js | Blood donor-receiver matching within 10 km using geolocation |
-| ☁️ **NGO AWS Platform** | React · S3 · Lambda · CloudFront | Serverless volunteer registration with automated email pipeline |
-| 🧬 **Drug Discovery ML** | Scikit-learn · RDKit · Cheminformatics | Multi-task model for drug solubility & ligand binding; paper in review |
-| 🎭 **2D→3D Face Reconstruction** | StyleGAN · SRGAN · MediaPipe · OpenCV | End-to-end 2D image to 3D mesh pipeline |
-| 📊 **IMDb Sentiment Dashboard** | TF-IDF · Random Forest · Streamlit | 87% accuracy · 10,000+ reviews scraped & visualized |
+|  **Fleet Management System** | MERN · WebSocket · MQTT · Saga · ROS2 | Real-time multi-robot control; latency slashed via WS + MQTT migration |
+|  **KONE Elevator Integration** | ROS2 · Node.js | Robots autonomously call lifts, send floor commands, handle door events |
+|  **Hindi Audio Moderation** | CNN · FCNN · MFCC · Flask · React Native | **Patent published** — deep learning content safety for Hindi audio |
+|  **RakhtSeva** | React · Firebase · Leaflet.js | Blood donor-receiver matching within 10 km using geolocation |
+|  **NGO AWS Platform** | React · S3 · Lambda · CloudFront | Serverless volunteer registration with automated email pipeline |
+|  **Drug Discovery ML** | Scikit-learn · RDKit · Cheminformatics | Multi-task model for drug solubility & ligand binding; paper in review |
+|  **2D→3D Face Reconstruction** | StyleGAN · SRGAN · MediaPipe · OpenCV | End-to-end 2D image to 3D mesh pipeline |
+|  **IMDb Sentiment Dashboard** | TF-IDF · Random Forest · Streamlit | 87% accuracy · 10,000+ reviews scraped & visualized |
 
 ---
 
@@ -108,19 +106,19 @@ lakshay = {
 
 ### 🏆 achievements
 
-- 🏅 **Top 10** — Nirma University MINeD Hackathon
-- 📜 **Patent Published** — Hindi Audio Content Moderation System
-- 📄 **2 Research Papers** in publishing phase (Drug Discovery ML + Audio NLP)
-- 🎖️ Presented autonomous fleet system to **Baba Kalyani**, Indian / Australian / Israeli Army, Navy Marshall & Mercedes-Benz Group
+-  **Top 10** — Nirma University MINeD Hackathon
+-  **Patent Published** — Hindi Audio Content Moderation System
+-  **2 Research Papers** in publishing phase (Drug Discovery ML + RakhtSeva)
+-  Presented autonomous fleet system to **Baba Kalyani**, Indian / Australian / Israeli Army, Navy Marshall & Mercedes-Benz Group
 
 ---
 
 ### 📜 certifications
 
-- ☁️ IBM Introduction to Cloud Computing — Coursera
-- 🤖 Supervised Machine Learning: Regression & Classification — Coursera
-- 📐 Calculus for Machine Learning & Data Science — Coursera
-- 🐍 Python Basics for Data Science — edX (Verified)
+-  IBM Introduction to Cloud Computing — Coursera
+-  Supervised Machine Learning: Regression & Classification — Coursera
+-  Calculus for Machine Learning & Data Science — Coursera
+-  Python Basics for Data Science — edX (Verified)
 
 ---
 
